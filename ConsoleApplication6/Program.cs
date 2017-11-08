@@ -75,7 +75,7 @@ namespace Test
             Console.WriteLine(versionName);
             Console.WriteLine(verionPlatform);
             Console.WriteLine("----------------------------");
-            Console.WriteLine("Notepad++: " + IsSoftwareInstalled("Notepad++", null));
+            Console.WriteLine("New Changes   Notepadddddffff++: " + IsSoftwareInstalled("Notepad++", null));
             Console.WriteLine("Notepad++(x86): " + IsSoftwareInstalled("Notepad++", ProgramVersion.x86));
             Console.WriteLine("Notepad++(x64): " + IsSoftwareInstalled("Notepad++", ProgramVersion.x64));
             Console.WriteLine("Microsoft Visual C++ 2015: " + IsSoftwareInstalled("Microsoft Visual C++ 2015", null));
