@@ -65,6 +65,7 @@ namespace Test
             Console.WriteLine("OsName: {0}", Environment.OSVersion);
             Console.WriteLine("Operating System Information");
             Console.WriteLine("----------------------------");
+            Console.WriteLine("Installed Software Version Details");
 
 
             var versionID = new ComputerInfo().OSVersion;//6.1.7601.65536
