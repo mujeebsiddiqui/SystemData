@@ -86,7 +86,7 @@ namespace Test
             Console.WriteLine("Microsoft Visual C++ 2015 Redistributable (x64): " + IsSoftwareInstalled("Microsoft Visual C++ 2015", ProgramVersion.x64));
             Console.ReadKey();
             
-            Console.WriteLine("----------------------------");
+            
         }
 
 
